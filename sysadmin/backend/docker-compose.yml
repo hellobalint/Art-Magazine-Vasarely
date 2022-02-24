@@ -1,5 +1,7 @@
 version: '3.3'
 
+## sample file as we use js, not war file
+
 ## tomcat.war -> backend must call .war file tomcat.war file, so it works
 
 services:
